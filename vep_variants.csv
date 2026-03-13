@@ -1,0 +1,2 @@
+Input,Coordinate,Gene,Most_severe_consequence,Impact,Canonical_HGVS_Coding,Canonical_HGVS_Protein,Exon,Transcript,Biotype
+1 3329040 3329040 A/C 1,1:3329040-3329040,PRDM16,missense_variant,MODERATE,ENST00000270722.5:c.2279A>C,ENSP00000270722.5:p.Asp760Ala,9/17,ENST00000270722.5,protein_coding
